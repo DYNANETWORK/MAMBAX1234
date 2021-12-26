@@ -41,7 +41,7 @@ async def start_(client: Client, message: Message):
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ⚡𝐶ℎ𝑎𝑛𝑛𝑒𝑙⚡ : [MAMBA](https://t.me/MAMBA_X_SUPPORT)
 ┣★ ⚡𝑆𝑢𝑝𝑝𝑜𝑟𝑡⚡ : [CHAT GROUP](https://t.me/TG_WALI_MASTI)
-┣★ ⚡𝑂𝑤𝑛𝑒𝑟⚡   : [𝑇𝑜𝑥𝑖𝑐 𝐵𝑜𝑦](https://t.me/MAMBA_STAR)
+┣★ ⚡𝑂𝑤𝑛𝑒𝑟⚡   : [SUKHI](https://t.me/MAMBA_STAR)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
