@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Altronix Music Bot⭐️</b></h1>
+<h1 align= center><b>⭐️ MAMBAX 1234⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 
@@ -10,8 +10,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/AltronixMusicBot"> AltronixMusicBot </a> |
-    <a href="https://t.me/AltronixSupport"> AltronixSupport </a>
+    <a href="https://t.me/MAMBA_X_SUPPORT"> MAMBA_X_SUPPORT </a> |
+    <a href="https://t.me/TG_WALI_MASTI"> CHAT GROUP </a>
 </p>
 
 <h2 align="center">
@@ -59,4 +59,4 @@
 5. `MUSIC_BOT_NAME` : A name for your Music bot.
 
 
-
+##### CREDITS GOES TO ALTRONIX_BOTS
